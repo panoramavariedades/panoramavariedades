@@ -89,8 +89,10 @@ h2{
 }
 @media(max-width: 500px) {
     .div1{
-        width:100% ;
+        width:500 ;
         height:750px;
+        margim-top:0px;
+        margim-bottom:0px;
     }
     h1{
     font-size: 27px;
